@@ -69,7 +69,7 @@ SELECT * FROM users;
 
 ## Add MySQL as Data Source in Grafana
 
-![Data Source](https://github.com/ace97/mysql_grafana_integration/tree/main/image/Grafana-dashboard.png )
+![Data Source](https://github.com/ace97/mysql_grafana_integration/raw/main/image/Grafana-data_source.PNG)
 
 Use the 'EC2 Public-IP' in place of localhost. Give team in database field.
 Username = root
@@ -86,7 +86,8 @@ Select * from team.person;
 ```
 Now save the panel, give the dashboard a name. And finally you should have a dashboard that looks something like the image shown below.
 
-![Dashboard](https://github.com/ace97/mysql_grafana_integration/tree/main/image/Grafana-dashboard.PNG)
+![Grafana Dashboard](https://github.com/ace97/mysql_grafana_integration/raw/main/image/Grafana-dashboard.PNG)
+
 
 
 
